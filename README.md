@@ -6,7 +6,7 @@
 
 ---
 
-## 💡 The Idea
+## The Idea
 
 Most people practicing yoga at home have no way to know if their posture is correct. A wrong pose, held for a long time, can lead to strain or injury instead of benefit. **Yogamithra** aims to solve this by turning an ordinary yoga mat into a smart, AI-assisted companion that:
 
