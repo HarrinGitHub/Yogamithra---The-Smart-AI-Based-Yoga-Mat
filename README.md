@@ -1,8 +1,8 @@
-# Yogamithra — The Smart AI-Based Yoga Mat 🧘‍♀️
+# Yogamithra — The Smart AI-Based Yoga Mat 
 
 > An AI-powered smart yoga mat concept that helps practitioners perfect their pose, track their practice, and get real-time feedback — like having a personal yoga instructor built into your mat.
 
-**Status:** 🚧 Concept / Early Planning Stage — no working prototype yet. This repository currently holds the project vision and will grow to include design docs, hardware plans, and code as development begins.
+**Status:** Concept / Early Planning Stage — no working prototype yet. This repository currently holds the project vision and will grow to include design docs, hardware plans, and code as development begins.
 
 ---
 
@@ -20,7 +20,7 @@ Most people practicing yoga at home have no way to know if their posture is corr
 
 ---
 
-## 🎯 Planned Features
+##  Planned Features
 
 - [ ] Pose detection and classification (sensor-based, camera-based, or a hybrid of both — approach still being finalized)
 - [ ] Real-time alignment/posture feedback
@@ -33,7 +33,7 @@ Most people practicing yoga at home have no way to know if their posture is corr
 
 ---
 
-## 🛠️ Potential Tech Stack
+##  Potential Tech Stack
 
 Not finalized yet. Depending on the direction chosen, this project may involve:
 
@@ -46,7 +46,7 @@ This section will be updated once the architecture is decided.
 
 ---
 
-## 📍 Roadmap
+##  Roadmap
 
 1. Finalize concept: sensor-based vs. camera-based vs. hybrid pose detection
 2. Build a minimal prototype (hardware and/or software)
@@ -57,7 +57,7 @@ This section will be updated once the architecture is decided.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 This project is in its early, idea-formation stage — contributions, feedback, and discussion are very welcome, whether that's:
 
@@ -65,17 +65,3 @@ This project is in its early, idea-formation stage — contributions, feedback, 
 - Sharing relevant research or prior art
 - Helping prototype hardware or software
 - Improving this README as the project takes shape
-
-Feel free to open an issue to discuss ideas before submitting a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## ✨ Author
-
-Created by [HarrinGitHub](https://github.com/HarrinGitHub)
